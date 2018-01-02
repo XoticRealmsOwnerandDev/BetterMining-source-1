@@ -16,7 +16,7 @@ class BetterMining extends PluginBase{
     
     public function onEnable()
     {
-        $this->getLogger()->info(Color::GOLD . "BetterMining enabled! Made by ShadowLessMCPE!");
+        $this->getLogger()->info(Color::GOLD . "BetterMining enabled! Made by Leaked Plugin?");
         $this->getLogger()->info(Color::GREEN . "This plugin is very useful for mining servers! :D");
     }
     
